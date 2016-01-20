@@ -1,0 +1,22 @@
+{
+  "index": {
+    "T001": 0,
+    "A001": 1
+  },
+  "products": [
+    {
+      "id": "T001",
+      "name": "SONY Bravia KD-65X9005C",
+      "type": "television",
+      "brand": "Pioneer",
+      "value": 2700
+    },
+    {
+      "id": "A001",
+      "name": "PIONEER SC-2023 AV Amplifier",
+      "type": "amplifier",
+      "brand": "Sony",
+      "value": 1200
+    }
+  ]
+}
